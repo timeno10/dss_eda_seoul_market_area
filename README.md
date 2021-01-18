@@ -98,7 +98,7 @@ fig.savefig("상권별 유동인구.png", dpi=200)
 ##### 직장인 유동인구와 골목상권 유동인구
 ###### 중구/강남/서초 직장인 유동인구가 높으며 전형적인 오피스 상권임을 보인다.
 중구/강남/서초는 상권 유동인구 또한 높은데, 이는 골목 상권이지만, 좀더 폭넓은 업종 선택과 발달상권의 이점을 기대 할 수 있다. 
-하지만 중구는 강남과 서초와는 달리 상주 인구가 매우 적고, 주말 유동인구가 급혁히 떨어지는 것을 확인 할 수있다.
+하지만 중구는 강남과 서초와는 달리 상주 인구가 매우 적고, 주말 유동인구가 급혁 떨어지는 것을 확인 할 수있다.
 <img src='https://user-images.githubusercontent.com/72846844/104936686-3029c900-59f0-11eb-9c06-da519b40b6e8.png'></img>
 <img src='https://user-images.githubusercontent.com/72846844/104937772-83e8e200-59f1-11eb-9515-5abf700ae495.png'></img>
 <img src='https://user-images.githubusercontent.com/72846844/104942808-3de34c80-59f8-11eb-94ff-26db59c37cb4.png'></img>
