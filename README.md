@@ -9,7 +9,7 @@
 3. 서울시 상권 유동인구 & 매출 상관관계 분석
 
 #### 1-3. Dataset
-[서울 열린데이터 광장] <http://data.seoul.go.kr/dataList/3/literacyView.do>
+[서울 열린데이터 광장](http://data.seoul.go.kr/dataList/3/literacyView.do)
 
 1. 서울시 우리마을가게 상권분석서비스(상권-추정매출)_2019.csv
 2. 서울시 우리마을가게 상권분석서비스(상권-추정유동인구).csv
@@ -36,7 +36,7 @@ sns.set_style('whitegrid', {'font.family':'Malgun Gothic'})
 #### 유동인구란?
     - 서울시와 KT가 공공빅데이터와 통신데이터를 이용하여 추계한 서울의 특정지역, 특정시점에 존재하는 모든 인구
 ##### 발달상권/골목상권
-<img src='https://github.com/alltimeno1/dss_eda_seoul_market_area/issues/2#issuecomment-762346424'>
+<img src="https://github.com/alltimeno1/dss_eda_seoul_market_area/issues/2#issuecomment-762346424"></img>
     - 발달상권: 대로변과 대형 유통시설의 포함되는 범위
     - 골목상권: 대로변이 아닌 거주지 인근의 좁은도로를 따라 형성
     
@@ -85,8 +85,8 @@ fig.savefig("상권별 유동인구.png", dpi=200)
 ##### 직장인 유동인구와 골목상권 유동인구
 ###### 중구/강남/서초 직장인 유동인구가 높으며 전형적인 오피스 상권임을 보인다.
 중구/강남/서초는 상권 유동인구 또한 높은데, 이는 골목 상권이지만, 좀더 폭넓은 업종 선택과 발달상권의 이점을 기대 할 수 있다. 
-<img src='https://github.com/alltimeno1/dss_eda_seoul_market_area/issues/2#issue-788375193'>
-<img src='https://github.com/alltimeno1/dss_eda_seoul_market_area/issues/2#issuecomment-762337316>
+<img src='https://github.com/alltimeno1/dss_eda_seoul_market_area/issues/2#issue-788375193'></img>
+<img src='https://github.com/alltimeno1/dss_eda_seoul_market_area/issues/2#issuecomment-762337316></img>
 ## 3. Built With
 
 1. 김성준 : 서울시 상권 유동인구 분석, 서울시 상권 유동인구 & 매출 상관관계 분석, README 작성, 발표 진행
