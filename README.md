@@ -39,20 +39,10 @@ sns.set_style('whitegrid', {'font.family':'Malgun Gothic'})
 ##### 발달상권/골목상권
     - 발달상권: 대로변과 대형 유통시설의 포함되는 범위
     - 골목상권: 대로변이 아닌 거주지 인근의 좁은도로를 따라 형성
+    - 전통시장: 예전부터 있어 오던 시장을 백화점 따위의 물건 판매장소에 상대하여 칭함
+    - 관광특구: 외국인 관광객 수가 10만명(서울은 50만명)이상
 
-<img src="https://user-images.githubusercontent.com/72846844/104939332-a1b74680-59f3-11eb-88ee-e2d8f80adb7d.png"></img>
-
-##### 전통시장
-    - 예전부터 있어 오던 시장을 백화점 따위의 물건 판매장소에 상대하여 칭함
-    
-<img src="https://user-images.githubusercontent.com/72846844/104939296-98c67500-59f3-11eb-94fc-93ddf43f7cb6.png"></img>
-
-##### 관광특구
-    - 외국인 관광객 수가 10만명(서울은 50만명)이상
-<img src="https://user-images.githubusercontent.com/72846844/104939362-ada30880-59f3-11eb-9624-7f208265fc4b.png"></img>
-  
-    
- 
+<img src="https://user-images.githubusercontent.com/72846844/104978819-187d2f80-5a46-11eb-8d6d-90e0d1728908.png"></img> 
 
 ##### 데이터 불러오기 및 결합
 ```python
