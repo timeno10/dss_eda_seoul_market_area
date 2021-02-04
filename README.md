@@ -74,7 +74,7 @@ join3 = pd.merge(join2, work, on="상권_코드")
 <img src="https://user-images.githubusercontent.com/71831714/104885618-a7893980-59ab-11eb-8f58-2e5bd2e93363.png"></img>
 
 ##### 구별 유동인구 성비 
-###### 남녀성비차는 크게 나지 않지만 직장인이 많은 종로구에서 남성 비율이 가장 높게 
+###### 남녀성비차는 크게 나지 않지만 직장인이 많은 종로구에서 남성 비율이 가장 높음
 
 <img src="https://user-images.githubusercontent.com/71831714/106830912-529b3200-66d2-11eb-811d-f2b91fb0ac2b.png"></img>
 
