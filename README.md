@@ -100,7 +100,7 @@ join3 = pd.merge(join2, work, on="상권_코드")
 
 ###### 서대문구의 발달 상권(신촌, 이대)과 마포구의 관광 특구(홍대, 신촌)에 20대가 많이 몰리는 것을 확인
 
-<img src='https://user-images.githubusercontent.com/71831714/106828934-807e7780-66ce-11eb-9bab-739f6e2e4d66.png'></img>
+<img src='https://user-images.githubusercontent.com/71831714/106828934-807e7780-66ce-11eb-9bab-739f6e2e4d66.png' width=600></img>
 
 ##### 서대문구에서는 1, 20대 비율이 높고 오피스텔이 많은 중구에서는 30대 이상 비율이 높다.
 
