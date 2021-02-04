@@ -1,4 +1,8 @@
 # 서울시 상권 EDA
+
+<img src="https://user-images.githubusercontent.com/71831714/106831963-2da7be80-66d4-11eb-86b9-d0e915612e80.gif"></img> 
+###### 사진 출처 : 서울특별시, https://golmok.seoul.go.kr/introduce1.do
+
 ## 1. Intro
 #### 1-1. Topic
 - 서울시 상권을 상권 유형, 성별, 연령, 시간대 등 다양한 측면에서 분석
