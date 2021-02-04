@@ -20,27 +20,19 @@
 3. 서울시 우리마을가게 상권분석서비스(상권-직장인구).csv
 4. 서울시 우리마을가게 상권분석서비스(상권영역).csv
 
+#### 1-4. Roles
+
+1. 김성준 : 서울시 상권 유동인구 분석, 서울시 상권 유동인구 & 매출 상관관계 분석, README 작성, 발표 진행
+2. 김종찬 : 서울시 구별 매출 지도 시각화, 서울시 상권 매출 분석, ppt 작업
+
 ## 2. Preview
 
-```python
-# 패키지
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-from matplotlib import pyplot
-from matplotlib import font_manager
-f_path = "C:\Windows\Fonts\Malgun.ttf"
-font_manager.FontProperties(fname=f_path).get_name()
-from matplotlib import rc
-rc('font', family='Malgun Gothic')
-sns.set_style('whitegrid', {'font.family':'Malgun Gothic'})
-```
 ### 2.1 유동인구 데이터 분석
 ### 용어 정리
 #### 유동인구란?
     - 서울시와 KT가 공공빅데이터와 통신데이터를 이용하여 추계한 서울의 특정지역, 특정시점에 존재하는 모든 인구
     
-##### 상권 
+#### 상권 
     - 발달상권: 대로변과 대형 유통시설의 포함되는 범위
     - 골목상권: 대로변이 아닌 거주지 인근의 좁은도로를 따라 형성
     - 전통시장: 예전부터 있어 오던 시장을 백화점 따위의 물건 판매장소에 상대하여 칭함
@@ -115,9 +107,3 @@ join3 = pd.merge(join2, work, on="상권_코드")
 1. 생각과는 다르게 주말에 상권 유동인구수가 적음 
 2. 중구에서는 유동인구 대비 직장인 비율이 높아 주말 & 밤, 새벽 영업은 피하는 것이 좋아보임
 3. 1,20대 대상 영업는 마포구와 서대문구가 가장 적절해 보이지만 지역별 임대료 데이터가 있다면 임대료 대비 매출액을 비교할 필요가 있음
-
-## 4. Built With
-
-1. 김성준 : 서울시 상권 유동인구 분석, 서울시 상권 유동인구 & 매출 상관관계 분석, README 작성, 발표 진행
-2. 김종찬 : 서울시 구별 매출 지도 시각화, 서울시 상권 매출 분석, ppt작업
-3. 김태성 :
