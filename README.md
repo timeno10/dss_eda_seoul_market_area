@@ -78,7 +78,7 @@ join3 = pd.merge(join2, work, on="상권_코드")
 
 <img src='https://user-images.githubusercontent.com/71831714/106826859-1d3f1600-66cb-11eb-83b4-5dfbd31309c2.png'></img>
 
-###### 하지만 중구는 강남과 서초와는 달리 상주 인구가 매우 적고, 주말 유동인구가 급혁하게 떨어지는 것을 확인 할 수있다.
+###### 하지만 중구는 강남과 서초와는 달리 상주 인구가 매우 적기 떄문에 주말 유동인구가 급혁하게 떨어지는 것을 확인 할 수있다.
 
 <img src='https://user-images.githubusercontent.com/72846844/104942808-3de34c80-59f8-11eb-94ff-26db59c37cb4.png'></img>
  
