@@ -78,14 +78,29 @@ join3 = pd.merge(join2, work, on="상권_코드")
 
 <img src='https://user-images.githubusercontent.com/71831714/106826859-1d3f1600-66cb-11eb-83b4-5dfbd31309c2.png'></img>
 
-###### 하지만 중구는 강남과 서초와는 달리 상주 인구가 매우 적기 떄문에 주말 유동인구가 급혁하게 떨어지는 것을 확인 할 수있다.
+###### 하지만 중구는 강남과 서초와는 달리 상주 인구가 적고 직장인이 많기 떄문에 주말 유동인구가 급혁하게 떨어지는 것을 확인 할 수있다.
 
 <img src='https://user-images.githubusercontent.com/72846844/104942808-3de34c80-59f8-11eb-94ff-26db59c37cb4.png'></img>
- 
 
+###### 서대문구와 마포구에서 총 인구수 대비 20대 유동인구 비율이 높다. 
 
+<img src='https://user-images.githubusercontent.com/71831714/106829180-f97dcf00-66ce-11eb-9936-a257eb945ed2.png'></img>
 
-## 3. Built With
+##### 서대문구의 발달 상권(신촌, 이대)과 마포구의 관광 특구(홍대, 신촌)에 20대가 많이 몰리는 것을 확인
+
+<img src='https://user-images.githubusercontent.com/71831714/106828934-807e7780-66ce-11eb-9bab-739f6e2e4d66.png'></img>
+
+##### 서대문구에서는 1, 20대 비율이 높고 오피스텔이 많은 중구에서는 30대 이상 비율이 높다.
+
+<img src='https://user-images.githubusercontent.com/71831714/106828854-5036d900-66ce-11eb-9a68-4c5df606e8a0.png'></img>
+
+## 3. Conclusion
+
+1. 생각과는 다르게 주말에 상권 유동인구수가 적음 
+2. 중구에서는 유동인구 대비 직장인 비율이 높아 주말 & 밤, 새벽 영업은 피하는 것이 좋아보임
+3. 1,20대 대상 영업는 마포구와 서대문구가 가장 적절해 보이지만 지역별 임대료 데이터가 있다면 임대료 대비 매출액을 비교할 필요가 있음
+
+## 4. Built With
 
 1. 김성준 : 서울시 상권 유동인구 분석, 서울시 상권 유동인구 & 매출 상관관계 분석, README 작성, 발표 진행
 2. 김종찬 : 서울시 구별 매출 지도 시각화, 서울시 상권 매출 분석, ppt작업
