@@ -63,10 +63,20 @@ work = pd.read_csv("서울시 우리마을가게 상권분석서비스(상권-�
 join3 = pd.merge(join2, work, on="상권_코드")
 ```
 
+##### 기간별 유동인구 비교
+###### 2016년에 유동인구수가 급감한 후 회복한 것을 확인
+###### 유동인구수는 3분기(여름)가 가장 높고 4분기(가을~겨울)가 가장 낮다.
+<img src="https://user-images.githubusercontent.com/71831714/106831125-b3c30580-66d2-11eb-88d0-d3a11a72699f.png"></img>
+
 ##### 상권별 유동인구 비교
 ###### 골목상권의 총 유동인구수가 많지만 개별 상권의 유동 인구수는 발달 상권의 1/3 수준
 
 <img src="https://user-images.githubusercontent.com/71831714/104885618-a7893980-59ab-11eb-8f58-2e5bd2e93363.png"></img>
+
+##### 구별 유동인구 성비 
+###### 남녀성비차는 크게 나지 않지만 직장인이 많은 종로구에서 남성 비율이 가장 높게 
+
+<img src="https://user-images.githubusercontent.com/71831714/106830912-529b3200-66d2-11eb-811d-f2b91fb0ac2b.png"></img>
 
 ##### 직장인 유동인구와 골목상권 유동인구
 
@@ -86,7 +96,9 @@ join3 = pd.merge(join2, work, on="상권_코드")
 
 <img src='https://user-images.githubusercontent.com/71831714/106829180-f97dcf00-66ce-11eb-9936-a257eb945ed2.png'></img>
 
-##### 서대문구의 발달 상권(신촌, 이대)과 마포구의 관광 특구(홍대, 신촌)에 20대가 많이 몰리는 것을 확인
+<img src='https://user-images.githubusercontent.com/71831714/106830829-2f708280-66d2-11eb-84fa-db59adefb8d1.png'></img>
+
+###### 서대문구의 발달 상권(신촌, 이대)과 마포구의 관광 특구(홍대, 신촌)에 20대가 많이 몰리는 것을 확인
 
 <img src='https://user-images.githubusercontent.com/71831714/106828934-807e7780-66ce-11eb-9bab-739f6e2e4d66.png'></img>
 
